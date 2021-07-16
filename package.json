@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/Gorbsie/PersonalPortfolio/issues"
   },
-  "homepage": "https://github.com/Gorbsie/PersonalPortfolio#readme"
+  "homepage": "https://github.com/Gorbsie/PersonalPortfolio#readme",
+  "dependencies": {
+    "bootstrap": "^5.0.2"
+  }
 }
